@@ -1,0 +1,6 @@
+typ: spöke, gift, index: 92
+typ: elektrisk, index: 25
+typ: spöke, gift, index: 92
+typ: elektrisk, index: 25
+typ: spöke, gift, index: 92
+typ: elektrisk, index: 25
